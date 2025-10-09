@@ -1,23 +1,26 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kwaves</title>
-  <link rel="stylesheet" href="cadastro.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kwaves</title>
+    <link rel="stylesheet" href="cadastro.css">
 </head>
+
 <body>
-  <div class="bemvindo">
-    <p>Cadastre-se!</p>
-  </div>
-  <div class="login">
-    <h2>Criar conta</h2>
-    <p>Seu e-mail</p>
-    <input type="email" name="email" placeholder="Digite seu e-mail">
-    <p>Sua senha</p>
-    <input type="password" name="senha" placeholder="Digite sua senha">
-    <a href=""><button type="submit" class="botaoentrar">Entrar</button></a>
-    </form>
-  </div>
+    <div class="bemvindo">
+        <p>Cadastre-se!</p>
+    </div>
+    <div class="login">
+        <h2>Criar conta</h2>
+        <p>Seu e-mail</p>
+        <input type="email" name="email" placeholder="Digite seu e-mail">
+        <p>Sua senha</p>
+        <input type="password" name="senha" placeholder="Digite sua senha">
+        <a href=""><button type="submit" class="botaoentrar">Entrar</button></a>
+        </form>
+    </div>
 </body>
+
 </html>
