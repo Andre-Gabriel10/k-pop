@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kwaves | Notícias</title>
+    <link rel="stylesheet" href="noticiaskpop.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <h1 class="titulo-principal">Notícias Kwaves</h1>
+        <p class="subtitulo">Fique por dentro do mundo do Kpop!</p>
+    </header>
+
+    <section class="secao-noticias">
+     
+        <div class="card-noticia">
+            <div class="conteudo-noticia">
+                <h2 class="titulo-noticia">Lançamento de Álbum</h2>
+                <p class="descricao-noticia">Confira os detalhes do novo álbum do seu grupo favorito e fique por dentro das novidades.</p>
+                <a href="#" target="_blank"><button class="botao-ler-mais">Leia Mais</button></a>
+            </div>
+        </div>
+
+        <div class="card-noticia">
+            <div class="conteudo-noticia">
+                <h2 class="titulo-noticia">Entrevista Exclusiva</h2>
+                <p class="descricao-noticia">Uma conversa íntima com os idols mais populares, revelando curiosidades inéditas.</p>
+                <a href="#" target="_blank"><button class="botao-ler-mais">Leia Mais</button></a>
+            </div>
+        </div>
+
+      
+        <div class="card-noticia">
+            <div class="conteudo-noticia">
+                <h2 class="titulo-noticia">Eventos e Fãs</h2>
+                <p class="descricao-noticia">O ENHYPEN voltou com tudo! O novo single "Dark Moon" chegou dominando as plataformas e deixou o fandom em puro surto. A coreografia intensa, o visual cinematográfico e o conceito misterioso fizeram o clipe bater milhões de views em poucas horas. Em menos de um dia, o comeback já colocou o grupo no topo das paradas mundiais e a hashtag #ENHYPEN_Revival tomou conta do Twitter!</p>
+                <a href="https://pt.wikipedia.org/wiki/Enhypen" target="_blank"><button class="botao-ler-mais">Leia Mais</button></a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
