@@ -1,0 +1,46 @@
+.header{
+    background: linear-gradient(to right, purple, white);
+    width: 100vw;
+    height: 150px;
+    margin-top: -8px;
+    margin-left: -8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.603);
+}
+
+.titulo{
+    font-size: 60px;
+    color: white;
+    font-style: inherit;
+    margin-top: -115px;
+}
+
+.texto{
+    color: black;
+    font-size: 25px;
+    margin-top: 100px;
+}
+
+.popimg{
+    margin-top: 40px;
+    margin-left: 50px;
+    border-radius: 15px;
+    color: white;
+}
+
+.hiphopimg{
+    margin-top: 40px;
+    margin-left: 290px;
+    border-radius: 15px;
+    color: white;
+}
+
+.rbimg{
+    margin-top: -310px;
+    margin-left: 1000px;
+    border-radius: 15px;
+    color: white;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
