@@ -1,27 +1,24 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kwaves</title>
-    <link rel="stylesheet" href="login.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kwaves | Login</title>
+  <link rel="stylesheet" href="login.css">
 </head>
-
 <body>
-    <div class="bemvindo">
-        <p>Bem-vindo ao K-Waves!</p>
-    </div>
-    <div class="login">
-        <h2>Entrar</h2>
-        <p>Seu e-mail</p>
-        <input type="email" name="email" placeholder="Digite seu e-mail">
-        <p>Sua senha</p>
-        <input type="password" name="senha" placeholder="Digite sua senha">
-        <a href=""><button type="submit" class="botaoentrar">Entrar</button></a>
-        <a href="file:///C:/Users/aluno/Documents/cadastro.html">Não tem uma conta? Crie aqui</a>
-        </form>
-    </div>
+  <div class="bemvindo">
+    <p>Bem-vindo ao K-Waves!</p>
+  </div>
+  <div class="login">
+    <h2>Entrar</h2>
+    <p>Seu e-mail</p>
+    <input type="email" name="email" placeholder="Digite seu e-mail">
+    <p>Sua senha</p>
+    <input type="password" name="senha" placeholder="Digite sua senha">
+    <a href="file:///C:/Users/ESCOLA/Desktop/kpop/inicial.html"><button type="submit" class="botaoentrar">Entrar</button></a>
+    <a href="file:///C:/Users/ESCOLA/Desktop/kpop/cadastro.html">Não tem uma conta? Crie aqui</a>
+    </form>
+  </div>
 </body>
-
 </html>
