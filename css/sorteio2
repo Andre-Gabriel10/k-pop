@@ -1,0 +1,7 @@
+.text{
+    background-color: rgba(0, 0, 0, 0.178);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 240px;
+    border-radius: 20px;
+}
