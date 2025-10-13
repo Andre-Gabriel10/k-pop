@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f2f3f7;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #333;
+}
+
+.cabecalho {
+    background: linear-gradient(to right, purple, white);
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.titulo-principal {
+    margin: 0;
+    font-size: 34px;
+    letter-spacing: 1px;
+}
+
+.subtitulo {
+    margin-top: 10px;
+    font-size: 16px;
+
+}
+
+.secao-noticias {
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+
+.card-noticia {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 600px;
+    transition: box-shadow 0.3s ease;
+}
+
+.card-noticia:hover {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.conteudo-noticia {
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.titulo-noticia {
+    margin: 0 0 15px 0;
+    font-size: 24px;
+    color: purple;
+}
+
+.descricao-noticia {
+    font-size: 16px;
+    opacity: 0.85;
+    margin-bottom: 20px;
+}
+
+
+a .botao-ler-mais {
+    text-decoration: none;
+}
+
+.botao-ler-mais {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 30px auto 0 auto;
+    padding: 10px 25px;
+    background: linear-gradient(to right, purple, white);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.562);
+    background: transition 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    transform: scale(1.07);
+}
