@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shows | Shows</title>
+    <link rel="stylesheet" href="shows.css">
+</head>
+
+<body>
+    <header class="cabecalho">
+        <h1 class="titulo-principal">Shows Próximos</h1>
+    </header>
+
+    <div class="img1">
+        <img src="https://images.sympla.com.br/6835115e8242e-lg.png" width="400px" height="250px" alt="MIKROKOSMOS">
+        <p>MIKROKOSMOS - SALVADOR - ARMYWORLD - KPOP </p>
+        <a href="https://www.sympla.com.br/evento/mikrokosmos-salvador-armyworld-kpop/2974726?referrer=www.google.com">
+            <button class="b1">MAiS</button></a>
+    </div>
+
+    <center>
+        <div class="img2">
+            <img src="https://www.japanconcerttickets.com/wp-content/uploads/Kep1er-Live-in-concert.jpg" width="400px"
+                height="250px" alt="MIKROKOSMOS">
+            <p>Kep1er em Tóquio, 2025-10-11</p>
+            <center><a href="https://www.japanconcerttickets.com/event/kep1er-in-tokyo-2025-10-11/"><button
+                        class="b2">MAiS</button></a></center>
+        </div>
+    </center>
+
+    <div class="img3">
+        <img src="https://tacoma.gov/wp-content/uploads/2025/07/Static_SocialPhoto-FacebookPR_1200x630_Seventeen_2025_Regional_TacomaDome_1011-1024x538.jpg"
+            width="400px" height="250px" alt="MIKROKOSMOS">
+        <p>seventeen, tacoma dome, 11 out. </p>
+        <center><a
+                href="https://www.livenation.com/artist/K8vZ9174Qw0/seventeen-events?landing=c&awtrc=true&c=SEM_LNConcertautomation_ggl_22846639645_182783840323_seventeen%20concert%20tickets&GCID=0&gclsrc=aw.ds&gad_source=1&gad_campaignid=22846639645&gbraid=0AAAAABnP7VI6EITgvwOLAUVCD6jYGRt_U&gclid=Cj0KCQjwl5jHBhDHARIsAB0YqjxEEaBppnVPS8rfldFYtE916FcSi8OwSkNw-lqC1tD7j8j5WjNEsBEaApMjEALw_wcB"><button
+                    class="b3">MAiS</button></a></center>
+    </div>
