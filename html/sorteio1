@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kwaves | Sorteios</title>
+    <link rel="stylesheet" href="sorteio1.css">
+</head>
+
+<body>
+    <header class="cabecalho">
+        <h1 class="titulo-principal">Sorteios Kwaves</h1>
+        <p class="subtitulo">Participe e ganhe prêmios exclusivos do mundo Kpop!</p>
+    </header>
+
+    <section class="secao-sorteios">
+        <div class="cartao-sorteio">
+
+            <div class="conteudo-sorteio">
+                <h2 class="titulo-sorteio">Sorteio de Ingressos</h2>
+                <p class="descricao-sorteio">Garanta seu lugar nos shows mais esperados do Kpop! Sorteios semanais para
+                    os fãs mais dedicados.</p>
+                <a
+                    href="file:///C:/Users/ESCOLA/Desktop/kpop/sorteio2.html"><button
+                        class="botao-participar">Participar</button></a>
+            </div>
+        </div>
+
+        <div class="cartao-sorteio">
+
+            <div class="conteudo-sorteio">
+                <h2 class="titulo-sorteio">Sorteio de Roupas</h2>
+                <p class="descricao-sorteio">Concorra a roupas inspiradas nos idols mais famosos estilo direto da Coreia
+                    pra você!</p>
+                <a
+                    href="file:///C:/Users/ESCOLA/Desktop/kpop/sorteio2.html"><button
+                        class="botao-participar">Participar</button></a>
+            </div>
+        </div>
+
+        <div class="cartao-sorteio">
+
+            <div class="conteudo-sorteio">
+                <h2 class="titulo-sorteio">Sorteio de Brindes e Pôsteres</h2>
+                <p class="descricao-sorteio">Colecione itens únicos de edição limitada. Pôsteres, álbuns e mini figures
+                    de seus grupos favoritos!</p>
+                <a
+                    href="file:///C:/Users/ESCOLA/Desktop/kpop/sorteio2.html"><button
+                        class="botao-participar">Participar</button></a>
+            </div>
+        </div>
+        <div class="inf">
+            As informações chegam no seu e-mail caso você seja o ganhador.
+        </div>
+    </section>
+</body>
+
+</html>
