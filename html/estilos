@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kwaves</title>
-    <link rel="stylesheet" href="estilos.css">
+    <title>Kwaves | Genêros</title>
+    <link rel="stylesheet" href="generos.css">
 </head>
 
 <body>
@@ -14,8 +14,7 @@
     <center class="texto">K-pop (abreviação de Korean pop) é um gênero musical sul-coreano <br> que combina diversos
         estilos musicais. Com coreografias <br> elaboradas e videoclipes superproduzidos. <br>Abaixo temos alguns
         exemplos de estilos do K-pop. <br>Selecione o estilo de interesse:</center>
-    <a href="https://pt.wikipedia.org/wiki/M%C3%BAsica_pop"><img
-            src="https://feedobem.com/wp-content/uploads/2025/09/Musica-Pop.webp" width="200px" height="200px"
+    <a href="https://pt.wikipedia.org/wiki/M%C3%BAsica_pop"><img src="https://feedobem.com/wp-content/uploads/2025/09/Musica-Pop.webp" width="200px" height="200px"
             class="popimg"></a>
     <a href="https://pt.wikipedia.org/wiki/Hip_hop"><img
             src="https://img.freepik.com/vetores-premium/ilustracao-vetorial-de-hip-hop-t-shirt-ou-arte-de-parede-legal-em-estilo-graffiti_675911-519.jpg?semt=ais_hybrid&w=740&q=80"
